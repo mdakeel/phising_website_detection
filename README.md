@@ -1,4 +1,14 @@
+
 # 🛡️ Phishing Website Detection Using Machine Learning
+##Landing Page :
+<img width="1903" height="961" alt="Screenshot 2025-08-06 122446" src="https://github.com/user-attachments/assets/bf9bc207-8019-48ce-a582-23bc8260926a" />
+
+##Upload CSV file
+<img width="1905" height="834" alt="image" src="https://github.com/user-attachments/assets/cf185a13-56f3-407f-8eb9-fccb7c66a3d5" />
+
+##Website link dectectin , Phising or Safe
+<img width="1890" height="950" alt="image" src="https://github.com/user-attachments/assets/6200785c-2e8b-43d6-8c3e-3f319e1fefcc" />
+
 
 ## 🔍 Overview of the Problem
 
@@ -102,4 +112,5 @@ Popular ML models used:
 - `Links_in_tags`: Checks `<meta>`, `<script>`, `<link>` tags
 
 ---
+
 
